@@ -1,0 +1,5 @@
+# Rust Bangkok Group Resources
+
+## Books
+
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
